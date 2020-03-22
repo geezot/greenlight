@@ -37,8 +37,8 @@ module Greenlight
     config.exceptions_app = routes
 
     # Configure I18n localization.
-    config.i18n.available_locales = [:en]
-    config.i18n.default_locale = :en
+    config.i18n.available_locales = [:fr]
+    config.i18n.default_locale = :fr
 
     # Check if a loadbalancer is configured.
     config.loadbalanced_configuration = ENV["LOADBALANCER_ENDPOINT"].present? && ENV["LOADBALANCER_SECRET"].present?
@@ -90,7 +90,7 @@ module Greenlight
     config.enable_email_verification = (ENV['ALLOW_MAIL_NOTIFICATIONS'] == "true")
 
     # Determine if GreenLight should allow non-omniauth signup/login.
-    config.allow_user_signup = (ENV['ALLOW_GREENLIGHT_ACCOUNTS'] == "true")
+    config.allow_user_signup = (ENV['ALLOW_GREENLIGHT_ACCOUNTS'] == "false")
 
     # Configure custom banner message.
     config.banner_message = ENV['BANNER_MESSAGE']
