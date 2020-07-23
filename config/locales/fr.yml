@@ -192,7 +192,7 @@ fr:
         username: Nom d'utilisateur
       title: Gérer les utilisateurs
   add_to_google_calendar: "Ajouter au calendrier Google"
-  bigbluebutton: BigBlueButton
+  bigbluebutton: Visioconférence Afnic
   bigbluebutton_exception: "Oups, une erreur s'est produite lors du démarrage de la réunion !"
   cancel: Annuler
   cookies:
@@ -262,7 +262,7 @@ fr:
   footer:
     legal: Légal
     privpolicy: Politique de confidentialité
-    powered_by: "Alimenté par %{href}."
+    powered_by: "Service proposé par par l'Afnic."
   forgot_password:
     subtitle: Mot de passe oublié
     email: Email
@@ -292,10 +292,10 @@ fr:
     search:
       start: Commencer la recherche...
   landing:
-    about: "%{href} est une interface simple pour votre serveur open-source de Web conférence BigBlueButton. Vous pouvez créer vos propres salles pour héberger des sessions ou rejoindre d'autres utilisateurs via un lien court et pratique. "
-    welcome: Bienvenue sur BigBlueButton.
-    video: Regardez notre tutoriel sur l'utilisation de Greenlight
-    upgrade: Montrez-moi comment passer à la version 2.0 !
+    about: "Vous pouvez utiliser cette plateforme pour organiser vos réunions virtuelles, formations, webinars et évènements en ligne."
+    welcome: "Bienvenue sur l'interface de visioconférence de l'Afnic."
+    video: Pour obtenir un compte utilisateur vous pouvez contacter le service communication, la DSI ou la DPI.
+    upgrade: 
     version: "Nous avons publié une nouvelle version de Greenlight, mais votre base de données n'est pas compatible."
   language_default: Par défaut (langue du navigateur)
   ldap_error: Impossible de se connecter au serveur LDAP. Veuillez vérifier votre configuration LDAP dans le fichier env et vous assurer que votre serveur est en cours d'exécution.
