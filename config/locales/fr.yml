@@ -262,7 +262,7 @@ fr:
   footer:
     legal: Légal
     privpolicy: Politique de confidentialité
-    powered_by: "Service proposé par par l'Afnic."
+    powered_by: "Service proposé par l'Afnic."
   forgot_password:
     subtitle: Mot de passe oublié
     email: Email
