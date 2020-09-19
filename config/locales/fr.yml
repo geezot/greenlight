@@ -294,8 +294,8 @@ fr:
   landing:
     about: "Merci de vous connecter avec le lien direct qui vous a été communiqué"
     welcome: "Bienvenue sur l'interface de visioconférence de l'Afnic."
-    video: 
-    upgrade: 
+    video: ""
+    upgrade: ""
     version: "Nous avons publié une nouvelle version de Greenlight, mais votre base de données n'est pas compatible."
   language_default: Par défaut (langue du navigateur)
   ldap_error: Impossible de se connecter au serveur LDAP. Veuillez vérifier votre configuration LDAP dans le fichier env et vous assurer que votre serveur est en cours d'exécution.
