@@ -292,9 +292,9 @@ fr:
     search:
       start: Commencer la recherche...
   landing:
-    about: "Vous pouvez utiliser cette plateforme pour organiser vos réunions virtuelles, formations, webinars et évènements en ligne."
+    about: "Merci de vous connecter avec le lien direct qui vous a été communiqué"
     welcome: "Bienvenue sur l'interface de visioconférence de l'Afnic."
-    video: Pour obtenir un compte utilisateur vous pouvez contacter le service communication, la DSI ou la DPI.
+    video: 
     upgrade: 
     version: "Nous avons publié une nouvelle version de Greenlight, mais votre base de données n'est pas compatible."
   language_default: Par défaut (langue du navigateur)
